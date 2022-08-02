@@ -1,0 +1,25 @@
+{
+  "name": "video-twilio",
+  "version": "1.0.0",
+  "description": "twilio wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksunit/video-twilio-package.git"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "Sunit Kale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksunit/video-twilio-package/issues"
+  },
+  "homepage": "https://github.com/ksunit/video-twilio-package#readme",
+  "dependencies": {
+    "twilio-video": "^2.23.0"
+  }
+}

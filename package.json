@@ -1,6 +1,6 @@
 {
   "name": "video-twilio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "twilio wrapper",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ksunit/video-twilio-package#readme",
   "dependencies": {
+    "@types/offscreencanvas": "^2019.7.0",
     "twilio-video": "^2.23.0"
   }
 }
